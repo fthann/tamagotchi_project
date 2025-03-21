@@ -1,0 +1,29 @@
+Tamagotchi - Hewan Peliharaan Virtual
+
+== Deskripsi ==
+Tamagotchi adalah permainan hewan peliharaan virtual di mana pemain harus
+merawat karakter digital dengan memberi makan, bermain, dan mengistirahatkannya.
+Jika tidak dirawat dengan baik, Tamagotchi bisa menjadi sakit atau tidak bahagia.
+
+=== Cara Bermain ===
+
+1. **Menjalankan Game:**  
+   - Jalankan program Java ini di terminal atau IDE.  
+   - Masukkan nama untuk Tamagotchi Anda.  
+
+2. Interaksi dengan Tamagotchi:
+   - `1. Beri Makan` → Mengurangi rasa lapar, tetapi menurunkan energi.  
+   - `2. Ajak Bermain` → Meningkatkan kebahagiaan, tetapi mengurangi energi.  
+   - `3. Istirahat` → Meningkatkan energi, tetapi sedikit menurunkan kebahagiaan.  
+   - `4. Lihat Status` → Menampilkan kondisi Tamagotchi.  
+   - `5. Keluar` → Mengakhiri permainan.  
+
+3. Kondisi Khusus:
+   - Jika `kelaparan mencapai 100`, Tamagotchi akan sakit.  
+   - Jika `energi mencapai 0`, Tamagotchi akan tertidur otomatis.  
+   - Jika `kebahagiaan mencapai 0`, Tamagotchi akan mogok beraktivitas.  
+
+## Tujuan
+Pemain harus menjaga keseimbangan antara kelaparan, kebahagiaan, dan energi Tamagotchi agar tetap sehat dan bahagia.
+
+**Selamat bermain! 🎮**
